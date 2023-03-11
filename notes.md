@@ -6,6 +6,7 @@
 
 在后面的default里设置路径
 
+
 ![](https://github.com/yyy-psc/23.0310-notes/blob/main/23.0309/2.jpg)
 
 把none改成第几个epoch
